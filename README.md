@@ -1,8 +1,6 @@
-- 👋 fuck off, I’m @SpandexSix34
-- 👀 nope nothing just go
-- 🌱 just about none of your business
-- 💞️ leave me alone
-- 📫 don't reach me
+- 👋 🗣️🔥
+- 🎓 Trinity College Dublin Engineering 
+- 📫 fallm@tcd.ie
 
 <!---
 SpandexSix34/SpandexSix34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
